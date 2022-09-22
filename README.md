@@ -1,7 +1,8 @@
 # ⚡ Weather App
  Weather app that fetches real time weather data of any location
+![weather-app](https://user-images.githubusercontent.com/113206436/191721450-942a438c-6781-467f-9ccc-a88262b7fcd9.png)
 
-![skymate](https://user-images.githubusercontent.com/47467468/84751219-f025e200-afd9-11ea-9815-69c8c836dc99.png)
+
 
 ## Api
 I have used [OpenWeather](https://openweathermap.org/api) api to fetch real time weather data.
@@ -9,13 +10,5 @@ I have used [OpenWeather](https://openweathermap.org/api) api to fetch real time
 ## Built with
 html, css, bootstrap and vannila Js
 
-## Demo
-You can see live demo [here](https://skymate.now.sh/).
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
