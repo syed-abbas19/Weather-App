@@ -91,16 +91,7 @@ function displayWeather(){
 })
 
 
-//daily forecast
 
-let forecastapi="https://cors-anywhere.herokuapp.com/https://api.openweathermap.org/data/2.5/forecast/daily/find?q="+ place +"&units=metric&appid=4b2ab8f040bb8dd2f8d80e58c3e29cb3";
-fetch(forecastapi)
-.then(response=>{
-    forecastdata=response.json();
-    return forecastdata;
-})
-.then(forecastdata=>{
-    console.log(forecastdata);})
 
 
 
